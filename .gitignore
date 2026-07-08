@@ -1,0 +1,14 @@
+# Virtual environments
+call_me_maybe/env/
+.venv/
+
+# Python cache
+call_me_maybe/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
